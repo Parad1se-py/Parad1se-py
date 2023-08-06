@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Parad1se-py
+- 👀 I’m interested in AI, ML and Discord Bots
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me: Discord - @parad1se_ae
