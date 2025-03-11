@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parad1se-py
 - 👀 I’m interested in AI, ML
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on any fun projects (Python, JS)
+- 🌱 I’m currently learning GO
+- 💞️ I’m looking to collaborate on any fun projects (Python)
 - 📫 How to reach me: Discord - @parad1se_ae
